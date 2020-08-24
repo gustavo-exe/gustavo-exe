@@ -1,4 +1,11 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/61214852/91000766-2efe8800-e587-11ea-8ac9-ed4c6f8e4080.jpg)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gustavo-exe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gustavo-meza-3391a21a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gustavo.jjpg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gustavo.exe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gustavodevelop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gustavoexe)  
+
+
 
 <!--
 **gustavo-exe/gustavo-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
